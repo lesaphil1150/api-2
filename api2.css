@@ -1,0 +1,59 @@
+body {
+  font-family: "Kanit", sans-serif !important;
+}
+
+.top {
+  /* border: 1px black solid; */
+}
+
+.gif {
+  padding-left: 1rem;
+  /* border: 2px green solid; */
+  width: 100vw;
+  font-family: "Tourney", cursive;
+  font-size: 3rem;
+  letter-spacing: 3px;
+  font-size: 80px;
+  color: black;
+  text-align: center;
+  width: fit-content;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.form {
+  /* border: 2px black solid; */
+  padding-top: 55px;
+  padding-left: 25px;
+  margin-left: 25%;
+  margin-right: 20%;
+}
+
+.accordion-body-favorite {
+  display: flex;
+  height: fit-content;
+}
+
+.accordion-top {
+  border: 1px black solid;
+  margin-left: 25%;
+  margin-right: 26.5%;
+  font-family: "Kanit", sans-serif;
+}
+
+.giphy-embed {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.yourturn {
+  font-family: "Tourney", cursive;
+  font-size: Xx-large;
+  font-weight: 575;
+}
+
+ul {
+  list-style-type: none;
+}
